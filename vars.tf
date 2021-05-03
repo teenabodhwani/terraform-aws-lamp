@@ -3,5 +3,5 @@ variable "region" {
 }
 
 variable "key_name" {
-  default = "arocki7"
+  default = "bodhwani"
 }
